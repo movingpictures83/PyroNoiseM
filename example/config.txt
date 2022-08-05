@@ -1,0 +1,2 @@
+Prefix plugins/PyroNoiseM/example/
+Plugin PyroNoiseM inputfile parameters.pyronoisem.txt outputfile output.pyronoisem.txt

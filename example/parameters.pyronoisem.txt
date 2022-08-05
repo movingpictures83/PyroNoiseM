@@ -1,0 +1,6 @@
+input	plugins/PyroNoiseM/example/C005.dat
+output	plugins/PyroNoiseM/example/output_s60_c01
+listinput	plugins/PyroNoiseM/example/output.fcluster.list
+lookupfile	plugins/PyroNoiseM/example/LookUp_E123.dat
+s	60.0
+c	0.01
